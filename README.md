@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I'm crazy so proceed at your own risk.
